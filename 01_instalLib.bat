@@ -1,0 +1,1 @@
+CALL pip -q install requests ipympl ipython ipywidgets matplotlib numpy
