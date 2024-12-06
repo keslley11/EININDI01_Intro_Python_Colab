@@ -53,7 +53,9 @@ No terminal, execute:
 python --version
 `````
 
-Se instalado corretamente, você verá a versão do Python.
+Se instalado corretamente, você verá a versão do Python. O python pode ser utilizado na nuvem através do [google colab](https://colab.research.google.com/drive/1yXpXdn4heN9eIu7nd65hKVLudxkSb9Vd?usp=sharing#scrollTo=xdGC2NSuyt4e).
+
+Outra forma de trabalhar é com o VSCode tanto usando o **codigo bruto** com extensões *.py quanto usando o **jupiter notebook** (ambiente base do google colab no VSCode) com extensões *.ipynb.
 
 ---
 
