@@ -177,6 +177,11 @@ print(response.json())
 - Contribua com projetos de código aberto no GitHub.
 
 ---
+## Tarefa a ser executada: 
+
+ - Insira mais uma faixa de **660 Volts** na simulação gerada no arquivo 04_Simulação_do_Voltímetro_no_Python.ipynb.
+
+---
 
 ## Links Úteis
 
