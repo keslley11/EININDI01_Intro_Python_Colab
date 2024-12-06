@@ -179,7 +179,7 @@ print(response.json())
 ---
 ## Tarefa a ser executada: 
 
- - Insira mais uma faixa de **660 Volts** na simulação gerada no arquivo 04_Simulação_do_Voltímetro_no_Python.ipynb.
+ - Insira mais uma faixa de **660 Volts** na simulação do arquivo 04_Simulação_do_Voltímetro_no_Python.ipynb.
 
 ---
 
