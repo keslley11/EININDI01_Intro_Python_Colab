@@ -1,4 +1,5 @@
-# 🐍 Introdução ao Python
+# Instrumentação Industrial I
+## 🐍 Aula Prática 01: Introdução ao Python
 
 ## 📖 Sumário
 1. [O que é Python?](#o-que-é-python)
